@@ -7,6 +7,8 @@
 
 Basic password cracker. These tools can be used to crack various types of password hashes, the program applies the technique to recover the original password from the hash.
 
+---
+
 # Requirements
 
 You need to have python3 to install this script.
