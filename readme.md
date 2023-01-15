@@ -22,7 +22,7 @@ python3 pass_cracker.py
 ```
 
 # Usage
-You can run the password cracker with the command `python3 password_cracker.py`. You can find all parameters with `python3 password_cracker.py --help`. Currently it support only dict. method to crack password.
+You can run the password cracker with the command `python3 pass_cracker.py`. You can find all parameters with `python3 pass_cracker.py --help`. Currently it support only dict. method to crack password.
 
 ## Authors
 
