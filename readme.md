@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="pass_cracker.png" width="200px" alt="Pass_Cracker"></a>
+  <a href=""><img src="https://github.com/ajmewal/Password-Cracker/blob/master/Pass_cracker.png" width="200px" alt="Pass_Cracker"></a>
 </h1>
 
 
