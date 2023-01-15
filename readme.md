@@ -16,8 +16,8 @@ You need to have python3 to install this script.
 # Installation
 
 ```bash
-git clone <repo_link>
-cd <repo_link>
+git clone https://github.com/ajmewal/Password-Cracker.git
+cd Password-Cracker
 python3 pass_cracker.py
 ```
 
