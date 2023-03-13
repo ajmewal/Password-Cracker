@@ -22,8 +22,31 @@ python3 pass_cracker.py
 ```
 
 # Usage
-You can run the password cracker with the command `python3 pass_cracker.py`. You can find all parameters with `python3 pass_cracker.py --help`. Currently it support only dict. method to crack password.
+```bash 
+Python3 pass_cracker.py -h
+```
+Please find below the instructions to access the tool's help function, along with a list of all available switches:
+```bash
+██╗░░██╗░█████╗░░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
+██║░░██║██╔══██╗██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
+███████║███████║╚█████╗░███████║██║░░╚═╝██████╔╝███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
+██╔══██║██╔══██║░╚═══██╗██╔══██║██║░░██╗██╔══██╗██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
+██║░░██║██║░░██║██████╔╝██║░░██║╚█████╔╝██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+                                                                    v1.0
 
+
+usage: crack.py [-h] [-H HASH] [-w WORDLIST] [-f FORMAT] [-l]
+
+options:
+  -h, --help            show this help message and exit
+  -H HASH, --hash HASH  Enter Your hash
+  -w WORDLIST, --wordlist WORDLIST
+                        Give the wordlist path
+  -f FORMAT, --format FORMAT
+                        Specify the hash format
+  -l, --list-format     list the avilable format
+```
 ## Authors
 
 [@ajmewal](https://github.com/ajmewal)
