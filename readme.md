@@ -49,4 +49,4 @@ options:
 ```
 ## Authors
 
-<a href="https://github.com/ajmewal"><img src="https://avatars.githubusercontent.com/u/82837448?v=4"></a>
+<a href="https://github.com/ajmewal"><img src="https://avatars.githubusercontent.com/u/82837448?v=4" width="50px" hight="50px"></a>
