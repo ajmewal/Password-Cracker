@@ -74,7 +74,7 @@ if __name__=='__main__':
     parse.add_argument('-H','--hash',help="Enter Your hash")
     parse.add_argument('-w','--wordlist',help="Give the wordlist path")
     parse.add_argument('-f','--format',help="Specify the hash format")
-    parse.add_argument('-l','--list-format',action='store_true',help="list the avilable format")
+    parse.add_argument('-l','--list-format',action='store_true',help="list the avilable hash format")
     args = parse.parse_args()
     support_format=['md5','sha1','sha256','sha384','sha512']
     if args.list_format:
